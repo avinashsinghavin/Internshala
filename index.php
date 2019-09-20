@@ -30,7 +30,7 @@
           <ul class="navbar-nav mr-auto">
               <li class="nav-item active" style="padding-left: 102px;">
                   <a class="navbar-brand" href="index.php">
-                    <img src="images/internshala_logo.svg" width="100" height="40" alt="">
+                    <img src="./images/internshala_logo.svg" width="100" height="40" alt="">
                   </a>
               </li>
           </ul>
