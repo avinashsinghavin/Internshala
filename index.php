@@ -99,13 +99,13 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img class="d-block w-100" src="images/home_img2.jpg">
+        <img class="d-block w-100" src="./images/home_img2.jpg">
         <a class="carousel-control-prev" style="width: 100%;">
           
         </a>
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="images/home_img1.jpg">
+        <img class="d-block w-100" src="./images/home_img1.jpg">
          <a class="carousel-control-prev" style="width: 45%;">
           <h6><b>Online Winter Trainings</b></h6><!--  Used to write on Image-->
         </a>
